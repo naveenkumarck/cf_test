@@ -1,4 +1,4 @@
-name = "nodematiclabs"
+name = "cricket.copperbet"
 type = "webpack"
 workers_dev = true
 route = "cbcache.com"
