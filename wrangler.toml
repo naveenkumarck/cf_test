@@ -1,8 +1,8 @@
 name = "nodematiclabs"
 type = "webpack"
 workers_dev = true
-route = ""
-zone_id = ""
+route = "cbcache.com"
+zone_id = "f825ef3f6a4184a20a1339ea56b02995"
 
 [site]
 bucket = "./site"
